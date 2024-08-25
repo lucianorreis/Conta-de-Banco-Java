@@ -15,10 +15,10 @@ public class ContaTerminal {
             int numAgencia = scanner.nextInt();
 
         if (numAgencia == Numero) {
-            System.out.println();
+            System.out.println("Olá " + NomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é " + Agencia + ", conta " + Numero + " e seu saldo " + Saldo + " Já está disponível para saque");
         } else {
             System.out.println("Conta não encontrada!");
-        };
+        }
         
     }
 }
