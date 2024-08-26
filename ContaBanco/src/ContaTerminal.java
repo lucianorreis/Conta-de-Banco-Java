@@ -8,7 +8,8 @@ import java.util.Scanner;
  * @version 1.0
  *  Este é um projeto simples, feito para testar a sintaxe em Java e
  *  desenvolver o conhecimento básico da lógica.
- *  @
+ *  
+ * 
  *  Este pequeno código simula o login em uma conta de banco, sendo o 
  *  Usuário apelidado de "Fulaninho Vendaval"
  * 
